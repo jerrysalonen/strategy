@@ -1,0 +1,14 @@
+dontinline,*.*_all_jmhStub
+dontinline,*.*_avgt_jmhStub
+dontinline,*.*_sample_jmhStub
+dontinline,*.*_ss_jmhStub
+dontinline,*.*_thrpt_jmhStub
+inline,strategy/Benchmarks.mergeSortBenchmarkLarge
+inline,strategy/Benchmarks.mergeSortBenchmarkMedium
+inline,strategy/Benchmarks.mergeSortBenchmarkSmall
+inline,strategy/Benchmarks.quickSortBenchmarkLarge
+inline,strategy/Benchmarks.quickSortBenchmarkMedium
+inline,strategy/Benchmarks.quickSortBenchmarkSmall
+inline,strategy/Benchmarks.selectionSortBenchmarkLarge
+inline,strategy/Benchmarks.selectionSortBenchmarkMedium
+inline,strategy/Benchmarks.selectionSortBenchmarkSmall
